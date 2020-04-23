@@ -2,7 +2,8 @@
 - Create docker image from docker file: `docker build -t gpg-img`
 - Run the docker image shell: `docker run -it gpg-img`
 
-
+# Follow my blog for understanding GPG scenario
+- https://medium.com/@deadzg/understanding-gpg-ac5f396ffd9e
 
 
 # References
